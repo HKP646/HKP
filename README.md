@@ -1,1 +1,2 @@
 # HKP
+LET'S LEARN PYTHON !
